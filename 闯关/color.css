@@ -1,0 +1,306 @@
+.shen{
+    background-color: #c28084;
+}
+.qian{
+    background-color: #f0bdba;
+
+}
+.chao{
+    background-color: #8f4b4c;
+}
+.zai{
+    background-color: #4e1110;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.cen{
+   box-sizing: border-box;
+    margin: 0 auto;
+    width: 650px;
+    margin-top: 25px;
+}
+.cen1{
+    box-sizing: border-box;
+     margin: 0 auto;
+     width: 600px;
+     margin-top: 25px;
+ }
+li{
+    list-style: none;
+}
+/* lv1 */
+.lv1{
+     padding: 10px 10px;
+
+}
+.lv1-1{
+    width: 115px;
+    height: 40px;
+}
+/* 2 */
+.lv2{
+    padding: 10px 15px;
+    overflow: hidden;
+}
+.lv2-1{
+    line-height: 35px;
+    text-align: center;
+    width: 115px;
+    height: 35px;
+    float: left;
+    margin-right: 10px
+}
+/* 2-2 */
+.lv2-2{
+    line-height: 80px;
+    text-align: center;
+    width: 105px;
+    height: 80px;
+    float: left;
+    margin-right: 10px
+}
+.lv2p{
+    width: 100%;
+    height: 45px;
+    margin-top: 8px;
+}
+/* 2-3 */
+.lv2-3
+{    
+    
+    width: 580px;
+    padding: 10px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 20px;
+}
+.lv2-3p{
+    width: 100%;
+    height: 50px;
+}
+
+.lv2-3 li{
+    float: left;
+    margin:10px  65px 10px 0;
+    width: 50px;
+    height: 30px;
+    
+}
+/* 3 */
+.lv3{
+    overflow: hidden;
+    padding: 15px 10px 15px 25px;
+}
+.lv3-l{
+    width: 260px;
+    height: 160px;
+    float: left;
+    margin-left: 10px;
+   padding: 10px;
+   box-sizing: border-box;
+   text-align: center;
+}
+.lv3 h1{
+    width: 260px;
+    height: 33px;
+    float: right;
+    margin-right: 10px;
+}
+.lv3 p{
+    width: 260px;
+    height: 115px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+/* 4 */
+.lv4s{
+    width: 180px;
+    height: 25px;
+    margin: auto;
+    display: block;
+    margin-top: 18px;
+}
+.lv4d{
+    margin: auto;
+    width: 180px;
+    margin-top: 5px;
+    height: 80px;
+
+}
+/* 5 */
+.lv5{
+    overflow: hidden;
+    padding: 15px;
+}
+.lv5li{
+    box-sizing: border-box;
+    width: 160px;
+    height: 80px;
+    float: left;
+    padding: 10px 0;
+    margin-right: 45px;
+}
+.lv5li:last-child{
+    margin-right: 0;
+}
+.lv5li div{
+    width: 40px;
+    height: 60px;
+    box-sizing: border-box;
+    margin-left: 10px;
+    float: left;
+}
+.lv5d1{
+    margin-top:8px; 
+    clear: both;
+    width: 570px;
+    height: 75px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.lv5dl{
+    width: 110px;
+    height: 80px;
+    float: left;
+}
+ .lv5dlr{
+    width: 110px;
+    height: 80px;
+    float: right;
+} 
+.lv5ul{
+    margin-left: 20px;
+    overflow: hidden;
+    float: left;
+}
+.lv5ul li{
+    width: 110px;
+    height: 22px;
+    margin-bottom: 5px;
+}
+.lv5ulr{
+    margin-left: 20px;
+    overflow: hidden;
+    float: right;
+}
+.lv5ulr li{
+    width: 110px;
+    height: 22px;
+    margin-bottom: 5px;
+}
+.lv5pp{
+    
+    height: 80px;
+    width: 4px;
+    float: left;
+    margin-left: 41px;   
+}
+/* 6 */
+.lv6pp{
+    margin: auto;
+  width: 550px;
+  height: 15px;
+  margin-bottom: 5px;
+}
+/* lv67 */
+.lv67{
+   overflow: hidden;
+   padding: 10px;
+   padding-bottom: 30px;
+}
+.lv67l{
+    width: 65%;
+    float: left;
+    overflow: hidden;
+    padding: 12px
+}
+.l7dl{
+     width: 100px;
+     height: 85px;
+     float: left;
+}
+.l7dl2{
+    overflow: hidden;
+    
+    
+}
+.l7dl2 p:first-child{
+    height: 20px;
+    width: 280px;
+    margin-left: 10px;
+}
+.l7dl2 p:nth-of-type(2){
+    height: 45px;
+    width: 280px;
+    margin:5px 0 8px 10px;
+}
+.l7dl2 p:nth-of-type(3){
+    height: 7px;
+    width: 280px;
+    margin-left: 10px;
+}
+/* r */
+.lv67r{
+    float: right;
+    width: 30%;
+    overflow: hidden;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.l7p1{
+   width: 165px;
+   height: 20px;
+}
+.l7p2{
+    width: 165px;
+    height: 2px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+ }
+ .l7ul1{
+     width: 165px;
+     overflow: hidden;
+   margin-bottom: 30px;
+ }
+ .l7ul1 li{
+     width: 50px;
+     height: 40px;
+     float: right;
+     margin-bottom: 5px;
+     margin-left: 7.5px;
+ }
+ .l7ul1 li:nth-of-type(3n){
+    margin-left: 0px;
+ }
+ .l7p3{
+     width: 165px;
+     height:40px ;
+ }
+ .l7p4{
+    width: 165px;
+    height:20px ;
+}
+
+.mei{
+    background-color: #f7cac7;
+}
+
+.la1{
+    width: 70px;
+    height: 80px;
+    float: left;
+}
+.la2{
+    float: right;
+    width: 80px;
+    height: 25px;
+}
+.la3{
+    float: right;
+    width: 80px;
+    height: 45px;
+    margin-top: 10px;
+}
